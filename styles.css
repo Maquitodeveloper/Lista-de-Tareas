@@ -1,0 +1,102 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(120deg, #1c1c2b, #3d3d5c);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+#todo-app {
+  background: #2d2d44;
+  padding: 2rem;
+  border-radius: 2rem;
+  width: 100%;
+  max-width: 500px;
+  box-shadow: 20px 20px 60px #1a1a2a, -20px -20px 60px #464677;
+  transform: perspective(1000px) rotateX(1deg);
+  transition: transform 0.3s ease;
+}
+
+#todo-app:hover {
+  transform: perspective(1000px) rotateX(0deg) scale(1.01);
+}
+
+h2 {
+  text-align: center;
+  color: #ffffff;
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+}
+
+.input-section {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.input-section input {
+  flex: 1;
+  padding: 0.85rem;
+  border-radius: 1rem;
+  border: none;
+  font-size: 1rem;
+  background-color: #1f1f30;
+  color: #fff;
+  box-shadow: inset 4px 4px 10px #11111b, inset -4px -4px 10px #353564;
+}
+
+.input-section button {
+  background: linear-gradient(to top, #6a0dad, #8a2be2);
+  color: white;
+  border: none;
+  border-radius: 1rem;
+  padding: 0.85rem 1.2rem;
+  cursor: pointer;
+  box-shadow: 6px 6px 12px #1b1033, -6px -6px 12px #6b33ff;
+  transition: all 0.3s ease;
+}
+
+.input-section button:hover {
+  transform: translateY(-2px);
+}
+
+#taskList {
+  list-style: none;
+  padding: 0;
+}
+
+#taskList li {
+  background: linear-gradient(145deg, #373757, #2e2e48);
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-radius: 1.2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 6px 6px 14px #1a1a2a, -6px -6px 14px #4a4a6c;
+  color: #fff;
+  transition: transform 0.2s ease;
+}
+
+#taskList li:hover {
+  transform: scale(1.03);
+}
+
+#taskList li button {
+  background-color: #ff4d4d;
+  border: none;
+  padding: 0.5rem 1rem;
+  color: white;
+  border-radius: 0.75rem;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 3px 3px 8px #802020, -3px -3px 8px #ff7f7f;
+  transition: background-color 0.3s ease;
+}
+
+#taskList li button:hover {
+  background-color: #cc0000;
+}
