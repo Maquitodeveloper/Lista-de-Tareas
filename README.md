@@ -1,22 +1,39 @@
-# 📝 Lista de Tareas
+# ✅ TaskSphere — Lista de Tareas Moderna y Elegante
 
-Una aplicación simple para gestionar tus tareas diarias. Puedes agregar, marcar como completadas y eliminar tareas de forma intuitiva.
+Un gestor de tareas interactivo y visualmente atractivo, construido con HTML, CSS y JavaScript puro.  
+Organiza tus pendientes con estilo y precisión.
 
-## 🚀 Características
+---
 
-- Agregar nuevas tareas
-- Marcar tareas como completadas
-- Eliminar tareas
-- Interfaz limpia y responsiva (si aplica)
+## 🌈 Vista Previa
 
-## 🧰 Tecnologías usadas
+![Vista previa]()  
+*Captura del proyecto en funcionamiento. Puedes reemplazar esta imagen por una real.*
 
-- HTML
-- CSS
-- JavaScript
+---
 
-> *(Puedes agregar frameworks si estás usando alguno como React, Vue, Bootstrap, etc.)*
+## ✨ Características
 
-## 📦 Cómo usar
+- 📝 Agrega nuevas tareas dinámicamente
+- ✅ Marca tareas como completadas visualmente
+- ❌ Elimina tareas con efecto inmediato
+- 💡 Estética neomórfica con sombras y profundidad
+- 📱 Totalmente responsive para móviles y pantallas grandes
 
+---
 
+## 🧱 Tecnologías Utilizadas
+
+| Herramienta | Descripción |
+|-------------|-------------|
+| HTML5 | Estructura semántica del contenido |
+| CSS3 | Estilo con Flexbox y neomorfismo moderno |
+| JavaScript (Vanilla) | Lógica para agregar y eliminar tareas |
+
+---
+
+## 🚀 Cómo iniciar
+
+1. Clona este repositorio:
+   ```bash
+   git clone
