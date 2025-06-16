@@ -1,4 +1,4 @@
-# ✅ TaskSphere — Lista de Tareas Moderna y Elegante
+# ✅ lista de tareas— Lista de Tareas Moderna y Elegante
 
 Un gestor de tareas interactivo y visualmente atractivo, construido con HTML, CSS y JavaScript puro.  
 Organiza tus pendientes con estilo y precisión.
