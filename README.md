@@ -7,8 +7,7 @@ Organiza tus pendientes con estilo y precisión.
 
 ## 🌈 Vista Previa
 
-![Vista previa]()  
-*Captura del proyecto en funcionamiento. Puedes reemplazar esta imagen por una real.*
+![Vista previa](https://maquitodeveloper.github.io/Lista-de-Tareas/)  
 
 ---
 
