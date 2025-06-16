@@ -38,3 +38,16 @@ Organiza tus pendientes con estilo y precisión.
 ├── styles.css
 └── script.js
 
+---
+🧪 Próximas funcionalidades
+
+[ ] Guardado automático en localStorage
+
+[ ] Filtros por tareas completadas / pendientes
+
+[ ] Animaciones al marcar tareas
+
+[ ] Contador de tareas activas
+
+[ ] Compatibilidad con tema oscuro del sistema
+
