@@ -5,11 +5,6 @@ Organiza tus pendientes con estilo y precisión.
 
 ---
 
-## 🌈 Vista Previa
-
-![Vista previa](https://maquitodeveloper.github.io/Lista-de-Tareas/)  
-
----
 
 ## ✨ Características
 
