@@ -30,4 +30,4 @@ Organiza tus pendientes con estilo y precisión.
 
 1. Clona este repositorio:
    ```bash
-   git clone
+   git clone https://github.com/Maquitodeveloper/Lista-de-Tareas.git
